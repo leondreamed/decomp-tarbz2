@@ -2,7 +2,7 @@
 	"name": "decomp-tarbz2",
 	"types": "module",
 	"type": "module",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "decompress tar.bz2 plugin",
 	"license": "MIT",
 	"repository": "kevva/decompress-tarbz2",
@@ -30,7 +30,7 @@
 		"tarbz2"
 	],
 	"dependencies": {
-		"decomp-tar": "^0.0.0",
+		"decomp-tar": "^0.1.0",
 		"file-type": "^18.5.0",
 		"is-stream": "^3.0.0",
 		"seek-bzip": "^2.0.0",
